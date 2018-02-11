@@ -1,0 +1,8 @@
+# created by sbt
+target/
+project/project/
+project/target/
+
+# created by intellij
+.idea/*
+
